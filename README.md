@@ -42,15 +42,15 @@ Can be tested using mouse & keyboard or VR headset
 
 ## Features
 
-```✔ 360° Virtual Clothing Showroom
-✔ Realistic store layout with racks & displays
-✔ 3D clothing models placed in a retail environment
-✔ Brand boards, logos, and interior elements
-✔ Optimized lighting for indoor showroom
-✔ Desktop preview + VR-ready architecture
-✔ Clean scene hierarchy and asset organization
+```1. 360° Virtual Clothing Showroom
+2. Realistic store layout with racks & displays
+3. 3D clothing models placed in a retail environment
+4. Brand boards, logos, and interior elements
+5. Optimized lighting for indoor showroom
+6. Desktop preview + VR-ready architecture
+7. Clean scene hierarchy and asset organization
 ```
-🕶️ VR Capabilities
+## VR Capabilities
 
 ```Designed to be compatible with XR Interaction Toolkit
 
