@@ -42,7 +42,8 @@ Can be tested using mouse & keyboard or VR headset
 
 ## Features
 
-```1. 360° Virtual Clothing Showroom
+```
+1. 360° Virtual Clothing Showroom
 2. Realistic store layout with racks & displays
 3. 3D clothing models placed in a retail environment
 4. Brand boards, logos, and interior elements
@@ -52,7 +53,8 @@ Can be tested using mouse & keyboard or VR headset
 ```
 ## VR Capabilities
 
-```Designed to be compatible with XR Interaction Toolkit
+```
+Designed to be compatible with XR Interaction Toolkit
 
 Can be extended to:
 
@@ -69,7 +71,8 @@ Meta Quest (via PC VR)
 Other OpenXR-supported headsets
 ```
 ## Requirements
-```Unity Hub installed
+```
+Unity Hub installed
 Unity Editor version: 6000.0.50f1
 Windows PC (recommended)
 VR Headset (optional – for VR testing)
@@ -80,7 +83,8 @@ VR Headset (optional – for VR testing)
 
 ## How to Run the Project
 
-```1. Clone or download the repository
+```
+1. Clone or download the repository
 2. Open Unity Hub
 3. Click "Add" → Add project from disk
 4. Select the project folder
@@ -90,12 +94,14 @@ VR Headset (optional – for VR testing)
 7. Press ▶ Play
 8. ontrols (Editor Mode)
 ```
-```Mouse        → Look around
+```
+Mouse        → Look around
 W / A / S / D → Move (if movement enabled)
 Scroll       → Zoom (camera dependent)
 ```
 ##  Future Enhancements (Optional)
-```• Product interaction (select / rotate items)
+```
+• Product interaction (select / rotate items)
 • Price tags & product info panels
 • Shopping cart system
 • Multiplayer shared showroom
