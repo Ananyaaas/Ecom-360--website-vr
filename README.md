@@ -7,7 +7,7 @@ This project is designed for **desktop preview** and **VR-ready environments**, 
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 - **Engine:** Unity 6 (6000.0.50f1)
 - **Platform:** Windows / Mac / Linux
@@ -17,7 +17,7 @@ This project is designed for **desktop preview** and **VR-ready environments**, 
 
 ---
 
-## 🚀 How the Project Runs (Flow)
+## How the Project Runs (Flow)
 
 ```text
 Start Project
@@ -40,7 +40,7 @@ Clothing models, shelves, branding, and lighting are already set
 
 Can be tested using mouse & keyboard or VR headset
 
-🧩 Features
+ Features
 
 ```✔ 360° Virtual Clothing Showroom
 ✔ Realistic store layout with racks & displays
@@ -68,7 +68,7 @@ Meta Quest (via PC VR)
 
 Other OpenXR-supported headsets
 ```
-🧰 Requirements
+ Requirements
 ```Unity Hub installed
 Unity Editor version: 6000.0.50f1
 Windows PC (recommended)
@@ -94,7 +94,7 @@ How to Run the Project
 W / A / S / D → Move (if movement enabled)
 Scroll       → Zoom (camera dependent)
 ```
-🌱 Future Enhancements (Optional)
+ Future Enhancements (Optional)
 ```• Product interaction (select / rotate items)
 • Price tags & product info panels
 • Shopping cart system
